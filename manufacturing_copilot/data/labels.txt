@@ -1,0 +1,766 @@
+Saloon Light
+Recharge Freon
+Door Roller
+ACU
+Wheel Profiling
+Saloon CCU
+Charging Resistor
+Test Point
+External Smoke Detector
+Headlight
+BCU
+MPV
+Pressure Transducer
+Door Manifold
+Saloon Evaporator
+Clean J Rail
+Clean Internal Smoke Detector
+Aircon Filter
+LFF
+Battery
+Change Thermostat Setting
+Air Dryer
+CCD Washer
+Cab Door Cable
+CCD Fuse
+Traction Motor
+Wiper
+Saloon CCU Fan
+Purge Drain Pipe
+Speed Sensor
+Exterior Door Light
+Gangway Footplate
+Saloon Light Ballast
+Tacho
+WFL Hose
+WFL Oiling Ring
+Adjust Door Mating Strip
+Adjust Bump Stop Gap
+Weather Strip
+Internal Smoke Detector
+Cab Louvre
+Repatch Detrainment Door Rubber
+Air Compressor
+WFL Elbow
+Parking Brake Unit
+Patch Gangway Pleat
+Cab Light Switch
+ATC Marker Light
+Earth Cable
+Adjust Cab Door Plunger
+Horn Pipeline Filter
+Obstacle Detector Wire
+Partition Door Handle
+Cab Light Ballast
+Clear Drain Pan
+CCD Assembly
+Pressure Regulator
+Adjust Saloon Door Sensing Switch
+WFL Cylinder
+Door Actuator
+Saloon Evaporator Rubber
+Cab Seat
+Cab Door Latch Loose
+Water Tank Sight Glass
+Freon Overcharge
+Window
+Levelling Valve
+Door Lock Device
+Coupler Directional Valve
+MCU
+Adjust Door Lock Switch
+Aircon Insulation
+Door Operator
+Cab Light
+Adjust Gangway Footplate
+EMPB
+Fire Control Panel
+Magnet Valve
+CG
+Gangway Light Ballast
+Handstrap
+Door Control Panel
+Water Tank
+Partition Door Latch
+K Contactor
+Gangway Light
+ADDL Gangway Pleat
+Clean External Smoke Detector
+Adjust Door Speed
+LED Driver
+Train Number Indicator
+Parking Brake Solenoid Valve
+Encoder
+RIO Valve
+Adjust Fire Extinguisher Position
+Micromesh Oil Filter
+Cab Aircon Filter
+Air Compressor Safety Valve
+Horn Button
+Brake Check Valve
+MCH Mounting Bolt Loose
+Draught Screen
+Adjust Cab Door Latch Gap
+AMR2
+CCD Shoe
+Clean CCU Fin
+Coupler Magnetic Valve
+Adjust Air Spring Height
+BCH
+Saloon Door Add Shim
+Clean Guide Rail
+Adjust Car Height
+Tighten Pipe
+Adjust Fire Extinguisher Microswitch
+Tighten Partition Door Handle
+Door Isolation Device
+Partition Door Screw
+Partition Door Screw Loose
+Clean Windscreen
+K2 Contactor
+K1 Contactor
+Auto Coupler Cylinder
+Windscreen
+FOD
+Saloon Window Glass
+Valve Core
+MCH Mounting Bolt Tight
+Reset Wheel Diameter
+Fresh Air Damper
+WFL Magnetic Valve
+CCD Cover
+Top up Water Tank
+Resecure Wiper
+Parking Brake Release Pressure Switch
+DC-DC Converter
+Adjust Door Sensing Switch
+Exhaust Air Damper
+TIMS VDU
+Adjust Door Cushioning
+Gangway Latch Loose
+VVVF Controller
+MPV O Ring
+HLD Card
+Clean Coupler Pins
+AMR1
+VVVF Relay Unit
+Tighten Strainer Check Valve
+TRC4 Card
+Adjust MS Inhibitor
+Wire Loose
+L2 Contactor
+Cab CCU
+Wiper Engine
+Tighten Screw
+Gangway Packing
+Adjust Cab Door Magnet Switch
+Auto Coupler Cylinder O-Ring
+PBSV
+Clean Exterior Smoke Detector
+SDR1
+Adjust Door Gap
+Air Compressor Fan
+WFL
+Door Window
+Cab Door Cable Dislodge
+Return Air Damper
+Purge and Vacuum
+WSP
+WFL Guard
+MR Gauge
+Coupler Hose
+TLSK
+Water Tank O Ring
+Semi Permanent Coupler
+Remove Shim
+LMRG
+CPU4 Card
+Micromesh Oil Filter O Ring
+Saloon Evaporator Insulation
+Auto Coupler Hose
+VVVF
+Electrical Head O Ring
+Tighten Cab Seat Screw
+DLR
+Saloon Light Connector Loose
+Cab Aircon Control Unit
+Adjust Train Number Indicator Pin
+Shock Absorber
+Cab Seat Screw
+CCD HV Cable
+Adjust CG
+CBTC Jumper Cable Touch Ball Valve
+Battery Temperature Sensor
+COR6
+Speed Sensor Wrong Connection
+Tacho Cable
+L1 Contactor
+Saloon Seat
+Strainer Check Valve
+Tighten Sunvisor Screw
+Cab Door Window
+Heavy Cleaning
+Gateway Valve
+Auto Coupler Cylinder Seal
+Retighten Charging Nipple
+Stray Voltage From Cannon Plug
+Cab Door Magnetic Switch Loose
+ECB
+Cab Seat Bracket Loose
+Tighten Tacho Cannon Plug
+Add Shim to Cab Door
+Wheelset
+Cab Door Magnet Valve
+Clean Cab Door Rail
+Partition Door Shim
+VLCV
+EMPB Light Contact Loose
+Lateral Damper
+SDIR
+Door Open Push Button
+Adjust Door Closing Switch
+Propulsion Inverter
+Tighten Door V Packing
+Gangway
+Gangway Teflon Strip
+Adjust Levelling Valve
+PA Comms Selector Switch Screw
+ACU Exhaust Tube
+Tighten TIMS Connector
+MS Mounting Misaligned
+Repair Cab Seat
+Adjust Door Close Switch
+BSR Strainer Valve
+Horn Pipeline Filter O Ring
+Tighten Pressure Regulator
+Cab Evaporator
+Strain Check Valve
+Horn Solenoid Valve
+Wiper Knob
+Grease Partition Door Latch
+COR
+Fire Extinguisher Microswitch
+Saloon Door Window
+Tighten Partition Door Screw
+Clean Cab Door Guide Rail
+Manifold
+Tread Brake Unit
+CMV
+CPU4-2 Card
+BLBS Cover
+Cab Door Close Button Cover
+Fix Rubber Strip
+Tighten B13 Pipe Joint
+Cab Thermistor
+Coupler Rope
+MCH Bearing Loose
+TRPB Light
+Flashing Light Control Panel
+Console Misaligned
+Cab Door Handle
+DIR Buzzer
+Saloon Door Limit Switch
+Detrainment Door Rope
+Detrainment Door Spring
+Aircon Cannon Plug Loose
+TIMS Unit
+ODR
+Battery Fuse
+DIR1
+Aux On Wire Loose
+Adjust Centre Pivot Vertical Stop Bolt Gap
+Air Compressor Filter Element
+EP2002 Gateway Valve
+Realign Cab Door Latch
+Replace Windscreen
+Current Sensor
+Clear Choked Solenoid Exhaust Port
+Pressing Device
+Clean
+Tighten Micromesh Filter
+Water Tank Sight Glass O Ring
+Door T Joint Pipe
+Bogie Gearbox
+DIR3
+DCRA1-1
+Adjusted Saloon Door Alignment
+Partition Door Limit Switch
+SNR2
+Chime Amplifier
+Auto Coupler
+SR2
+Cab Aircon Control Unit Loose
+Tighten Aircon Connector
+Door Isolating Cock Cable
+Partition Door Bracket Loose
+Saloon Thermistor
+F2 Fuse Blown
+WFL Control Arm
+Dump Valve
+Line Breaker Terminal Loose
+Adjust Cab Door Rail
+Adjust Door Actuator
+Tighten WFL Elbow
+COR1
+Saloon Evaporator Motor
+WFL Filter Pipeline
+Readjust Cam Switch
+Cannon Plug Loose
+MR Test Point
+Saloon Door Remove Shim
+Aux On Diode
+Door Lock Device Screw Loose
+Tighten Parking Brake Solenoid Valve
+TRC4 TIMS Card
+Door Close Push Button
+Clean Thermistor
+Coupler Isolation Cock
+WN Coupling Loose
+Adjust Cab Door Guide Rail
+BRTR
+Fire Control Panel Power Supply
+Partition Door Lock Plate
+K1 Contactor Tip
+Clean Weather Strip
+COR5
+Snap Pin Missing
+Gangway Pressing Device
+POW72 Card
+Isolate Water Tank
+Parking Brake Hose
+Reseal FAD
+Adjust Cab Door Roller Guide
+Reconnect Wire
+DIR
+Horn
+Cab Door Screw Missing
+Fire Extinguisher Cover
+Cab Aircon Control Panel
+Tighten Connector
+Adjust Cab Door Sensing Switch Guide Rod
+High Speed Circuit Breaker
+Water Tank Cap Dislodge
+Tighten Partition Door Latch
+Apply Grease
+Cab Door Roller
+Grease Cab Door Handle
+Gearbox
+Vibration Damper
+Parking Brake
+Tighten CR Pipe Joint
+ZVAR-1
+Screw
+Tighten PBSV
+5/2 Valve
+Retighten Saloon Light Cover
+Cab Door Pinion
+Saloon Door Glass
+DET110
+Adjust Guide Rail
+Clean Smoke Internal Duct
+SDR2
+Adjusted Cab Door Latch
+Cab Aircon Knob
+Levelling Valve Dislodged
+MR Safety Valve
+Adjust Cab Door Latch
+Tighten Train Number Indicator Connector
+Readjust Switch Contact
+Aircon Inverter
+Door Solenoid Plunger C Clip
+Realign Door Assembly
+Partition Door Rubber
+Brake Diode Board
+Door Operator Screw Loose
+Replace Electric Coupler Plug
+Adjust Cab Door Cable Length
+FF
+Realign Door Isolation Device
+Firewire Shorted
+Door Close Announcement Push Button
+Cab Light Wire Shorted
+Replace Electric Head Screw
+Detrainment Door Gear Hole Misaligned
+Rear Cab Indication Light
+CIF2 Card
+ACU Solenoid Valve
+Realign Cab Seat
+Horn Diaphragm
+Clean Door Leaf
+Clean Door Guide
+Adjust Door Bottom Guide
+Cab Door Magnetic Switch Bolt
+Door Leaf
+CMAR-01
+B105 Wire Oxidised
+Service Cab Door Latch
+Electrical Coupler Shaft
+CH4R
+Train Number Indicator Glass
+ENT Connector Loose
+Tighten Cab Door Sensing Switch
+MCB Handle Out of Position
+Propulsion LGD Loose
+Door Locking Device
+APS K Contactor
+Clean Latch Hole
+Replace Coupelr Wire Insulation
+Tighten Compressor Pressure Switch
+Gangway Latch Pin Misaligned
+BCU Cannon Plug
+MRPB
+Wiper Control Valve
+Adjust Electrical Coupler Head
+Tighten Tacho Connector
+Saloon CCU Gasket
+Saloon CCU Pipe
+Shed Receptacle Limit Switch
+Saloon CCU Copper Gasket Seal
+Cab Door Sensing Switch Plunger Loose
+Tighten Partition Door Bolts
+Adjust CCD Retraction Height
+Wiper Pressure Regulator
+Change Wheel Diameter
+Torsion Arm Loose
+Partition Door Mechanism Loose
+Diode Shorted
+Lintel Cover Loose
+Saloon CCU Loose Connection
+DORB2-1
+Semi Permanent Coupler Draft Gear
+Tighten MR Pipe Joint
+Auto Coupler Centering Device Pipe
+Tighten Wiper Engine
+CCD Fuse Box
+Reformat TIMS Card
+Adjust Cab Door Sensing Switch Plunger
+CM3R
+Wire Shorted
+ASAR
+Brake Double Check Valve
+Cannon Plug Pin
+Stray Voltage On Line 2
+Saloon Light Wrong Installation
+Auto Coupler Centering Device Valve
+Adjust CCD Height
+Cap Seal O Ring
+PBCU
+Air Spring Magnet Valve
+BCU Wire
+Air Compressor Pressure Switch
+WSP Pipeline Inlet
+Water Seepage
+MSB Limit Switch
+LFF Connector Faulty
+APS Diode
+CCD Height Adjusted
+Detrainment Door Linkage
+Detrainment Door Bolt
+Auto Drain Valve
+TIR
+Cable Tie Overtighten on Pressure Switch
+Adjust Saloon Door Bracket
+MCH Braket
+Gangway Light Contact Loose
+Partition Door Mechanism
+COR2
+Semi Permanent Coupler Hose
+Auxiliary Switch Box Handle
+Reseal Window
+Anti Rolling Device
+Cab Door Screw Loose
+ECB Light
+Diode
+Saloon Door V Packing
+Loosen TIMS Cover
+Adjust Partition Door
+Train Number Indicator Connector Loose
+Reseal Gangway Packing
+FS2
+L2 Wire Loose
+Remove Detrainment Door Shim
+Filter Capacitor
+Off Service Push Button
+Battery Bank Arm
+Tighten Cab Door Cable
+Door Mating Strip
+Uncouple Magnetic Valve
+'Aux On Wire High Resistance '
+ZVAR1
+Charging Resistor Wire Loose
+Horizontal Absorber
+Shuttle Valve
+Resecure Levelling Valve
+Water Ingress
+AS Drain Valve
+Adjust Cab Door Gap to Body
+Clean Micromesh Filter
+Door Cable Loose at Junction Box
+Cab Door Cable Screw Loose
+Retap Tacho Mounting
+DIRBS Wrongly Operated
+ECB Button Cover
+Auto Coupler Gasket
+Tighten Pressure Transducer
+Air Dryer O Ring
+Adjust Cab Door Sensing Switch
+DCRB4
+DCRB1
+DORB2
+DORA3
+DCRA2
+DCRB3
+DIR2
+Adjust Cab Door Cushioning
+Adjust Door Guide Rail
+Saloon Evaporator Wrong Wiring
+Tighten Torsion Arm Locknut
+Coupler
+SLK Cable Fray
+Repair Floor
+Adjust Cab Door Bracket
+Realign Detrainment Door Movable Plate
+Adjusted Door Mating Strip
+Tighten Micromesh Oil Filter Valve
+Train Braking Smell
+Reseal Return Air Damper
+Adjusted Stop Bolt
+Readjust LFF Cover
+Grind Switch Rod
+Auto Drain Valve O Ring
+Battery Cable
+TRSK1
+Adjust Cab Door Switch Rod
+CCD Detection Box
+Adjust Cab Door Roller Stopper
+Washer Control Valve
+Partition Door Mechanism Dislodge
+Install MS Inhibitor
+Tighten BSR Tank
+Air Compressor Check Valve
+Damping Choke
+Wiper Fitting
+Readjust Wiper Position
+MSPR
+Coupler Projection Out of Criteria
+Install Levelling Valve Arm
+Gangway Lifting Device Tilted
+Resecure MR Gauge Light
+Main Switch Box Handle
+Wire Exposed
+Cab Occupy Light
+WFL Magnetic Valve Wrong Position
+LVD1
+DLCBA Tripped
+Lubricate Cab Door Latch
+Cannon Plug Pin Loose
+Cab Aircon Drain Pipe Dislocated
+DMCBA
+CCD Cannon Plug Loose
+Wiper Tank Sight Glass
+Lubricate Weather Strip
+ECB Lock
+BLVR
+IVFR
+SBIPB Light
+Realign Cab Door Leaf
+Clean Latch
+Grind Cab Door Switch Rod
+Switch Box Handle
+STBR
+Retighten EMPB
+Saloon Door Adjust Shim
+Clean Horn
+Tailight
+Tighten Cab Door Manifold Leak
+DCRA
+Realign Cab Door Guide
+Tighten Wiper Control Valve
+Uncouple Magnet Valve
+Clean Diffuser
+DOSB2
+Rearrange HV Cable
+Thermal Relay
+File Cab Door Mounting Plate
+Saloon Evaporator Drain Pan
+Tighten Door Cushioning Nut
+BRER
+Manually Adjust Train Number
+Brake Cock
+Partition Door Latch Catch
+CDTR2A
+Lubricate Cab Seat Mechanism
+Market Light
+SR
+CPU4
+Tighten Cab Door Key Mechanism
+External Smoke Detector Gasket
+Clear Wiper Hole
+Tighten Partition Door Knob
+Propulsion Relay PCB (RY-21)
+Partition Door Handle Overtightened
+Repaint
+Loosened Screws
+Autocoupler Exhaust Valve
+Adjust Wheel Diameter
+Adjust Saloon Door Guide Rail Gap
+Reattach Levelling Valve
+Wiper Valve
+DCRB1-1
+DORB1-1
+Clean Partition Door Bottom Guide
+Clean HMV Exhaust Filter
+Cab Cabinet Sealant
+SOR1
+Saloon Lught
+APS Relay
+BIC Isolating Handle Not Fully Isolated
+Service Horn Diaphragm
+ZVAR
+MR Pipe Air Connection Gasket
+Overtightened Cab Door Guide
+Clean Partition Door Limit Switch
+File Door Leaf Hanger
+Old Cab Door Mechanism Pinion Gear Broken
+Adjusted Cab Door Latch Gap
+L1
+Welding
+Electric Head Seal
+Tacho Brake Sensor
+MR Duplex Gauge
+Traction Inverter
+Tighten BCU Cannon Plug
+Bunching of Trains
+Tighten Partition Door Lock Bolt Assembly
+MR Cock Not Normalised
+Tighten Cab Door Magnet Switch Bracket
+Partition Door Base Plate Loose
+Partition Door Mount Loose
+SNR1
+Cab Door Cable Hook Slipped
+Grease Cab Seat
+Reducing Valve
+SLK
+Cab Door Guide Rail Loose
+Adjust Fire Extinguisher Limit Switch
+Saloon CCU Coupling Ring
+Reset TIMS
+WFL Notch
+Door Lintel Cover Rubber
+Cab Partition Door Switch
+Grease Cab Door Mechanism
+Realign Cab Door Handle Mechanism
+TC Action
+Door Lock Switch
+Tighten Cab to Cab Knob
+Tighten CCD Cannon Plug
+Auxiliary Switch Box
+Seal Windscreen
+Auto Coupler Operating Valve
+Tighten TNI Wiring Socket
+ESPB Cover
+VVVF Controller Card MCP41A-1
+VVVF Controller Card IN68
+Tighten Cab Door Actuator Lock Nut
+Service Wiper Motor
+ZVRR1
+Adjust Cab Door Lever
+EMFR
+Adjust Door Stopper Position
+WFL Coupling
+Cab Door Actuator
+Change Thermostat Setting (TIMS)
+Obstacle Detector Connector
+Chime Relay
+FLMV
+Shim
+Reinstalled Push Button
+Reconnect Connector
+Wiper Washer Valve
+RIO Valve O Ring
+Clean Partition Door Handle
+Clean Bottom Rail
+Cab Door Glass
+Cabinet lockset
+DCRA-1
+DORB-2
+DCRA-3
+DORB-1
+DCRA-2
+L1 Breaker
+Normalised MRIC
+Tighten Brake Pipe Coupling
+Earth Brush Cable Lug
+Saloon Light Cover Screw
+FS2 Fuse
+Tighten Semi Permanent Coupler Pipe
+Tighten Micromesh Oil Filter
+Auto Coupler Air Pipe Set
+STBS Cover
+Thermistor Connector
+Reinstate Radio Holder
+Door Glass
+Adjust Cab Seat
+B13 Check Valve
+WFL Pipeline Filter
+Cab Door Mechanism
+WN Coupling
+AMR-2
+Weather Plate
+ECB Plunger
+Tighten Lintel Cover Screw
+Tighten Cab Door Latch
+LSK
+Door Guide Arm Loose
+Electrical Coupler
+MS Bolts
+Cab Door Latch Bolt Loose
+Latch A Side Partition Door
+SNR
+CR Elbow Joint
+Remove MPV Tape
+Repair Wire Insulation
+CFC1
+Wiper Rubber
+Door Roller Circlip
+Partition Door Handle Cover
+POW-77
+Clean Saloon Light Cover
+Adjust Partition Door Latch
+Cab Aircon Power Indicator Cover
+Adjust Cannon Plug
+Retighten Lock Nut
+CMV Pipe
+TRC6
+POW77C
+Retighten Wiper Screw
+Clean Fibre Optic Cable
+Wiper Pipeline Filter
+Tighten LMRG Pipe
+Tighten Wiper Tank Pipe
+Adjust MR Cock
+Adjust Winch Mechanism
+Aircon Reset Push Button
+Gangway Pin Teflon Bush
+Clean R10 Contact Pin
+ECB Contact Switch
+Saloon Light Inverter
+Adjust Partition Door Handle
+Tighten Tacho Cable
+Removed Screen Protector
+BDR1
+MDR1
+ML1R
+Cab to Cab Switch
+K2 Contactor Tip
+L2 Contactor Tip
+SDIR Relay Base
+Reset TRC6
+Washer Pipeline Filter
+WFL Magnet Valve
+Detrainment Door Dust Cover
+Adjust Partition Door Top Latch
+Grabpole Cover
+FLARB2
+FLARA2
+Draught Screen Bracket Screw
